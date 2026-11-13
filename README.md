@@ -105,7 +105,7 @@ A lane runs with nobody watching, so check these two settings before you start o
 1. Clone it anywhere.
 
    ```powershell
-   git clone https://github.com/ryangalea23/claude-fleet
+   git clone https://github.com/larchmontlabs/claude-fleet
    ```
 
 2. Add one line to your PowerShell profile (`notepad $PROFILE`):
